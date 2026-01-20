@@ -1,6 +1,6 @@
 # Movie Reservation System
 
-A full-stack Node.js API for booking movie tickets with integrated payment processing via Stripe.
+A Backend-Node.js API for booking movie tickets with integrated payment processing via Stripe.
 
 ## Features
 
